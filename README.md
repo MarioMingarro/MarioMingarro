@@ -1,5 +1,5 @@
-### Hi there 👋
 
+Hi there, I'm Mario <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <p align="center">
 	<a href="https://github.com/MarioMingarro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
