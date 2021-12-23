@@ -14,7 +14,7 @@
 
 <br>
 
-[![Top Languages](https://readme-stats-envoy-vc.vercel.app/api/top-langs/?username=mariomingarro&layout=compact)](https://github.com/MarioMingarro/MarioMingarro)
+[![Top Languages](https://readme-stats-mariomingarro.vercel.app/api/top-langs/?username=mariomingarro&layout=compact)](https://github.com/MarioMingarro/MarioMingarro)
 
 <br>
 
