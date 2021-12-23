@@ -9,8 +9,9 @@
  - I am a PhD student at [Museo Nacional de Ciencias Naturales, Madrid](https://www.mncn.csic.es/en)
  - I write post on [my personal website](https://mmingarro.netlify.app/post/) 
  
+img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
 	
-	 <a img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
+img src= "https://github-readme-stats.vercel.app/api/top-langs/?username={MarioMingarro}&theme=blue-green"
 	
 <!--
 **MarioMingarro/MarioMingarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
