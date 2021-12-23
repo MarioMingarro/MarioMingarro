@@ -22,10 +22,11 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </p>	
 
-<p align="right">
+
 # Conect with me 
+<p align="right">
 <img align='right' src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"/>
-	</p>	
+</p>	
 <!--
 **MarioMingarro/MarioMingarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
