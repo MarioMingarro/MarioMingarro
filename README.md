@@ -8,10 +8,9 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Climate+Change;Protected+Areas;Butterflies">
 </p>
-
-# Conect with me <img align='right' src="https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif" width="230">
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+<p align="center">
+# Conect with me <img align='right' src="https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif" width="50">
+</p>
 
 
 <p align="center">
