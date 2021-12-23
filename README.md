@@ -8,13 +8,12 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Climate+Change;Protected+Areas;Butterflies">
 </p>
-<p align="center">
-# Conect with me 
-<img src="https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif" width="40" height="40" />
-<img src="https://media.giphy.com/media/TELUS-frog-frogs-telus-MXA8QkWdYxgE2dWZ1I/giphy.gif" width="40" height="40" />
 
-</p>
-![Alt Text]"https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif"
+# Conect with me 
+
+<img align="right" src="https://media.giphy.com/media/TELUS-frog-frogs-telus-MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230" height="230 />
+
+
 
 <p align="center">
 	<a href="https://github.com/MarioMingarro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
