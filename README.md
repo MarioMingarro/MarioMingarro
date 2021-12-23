@@ -11,7 +11,7 @@
 
 # Conect with me
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<img align='right' src="https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif">
 
 
 <p align="center">
