@@ -9,7 +9,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Climate+Change;Protected+Areas;Butterflies">
 </p>
 <p align="center">
-# Conect with me <img align='right' src="https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif" width="50">
+# Conect with me 
+<img src="https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 </p>
 
 
