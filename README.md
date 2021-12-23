@@ -9,7 +9,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Climate+Change;Protected+Areas;Butterflies">
 </p>
 
-
+<img align='right' src="https://giphy.com/gifs/gis-sig-esri-gJuCXtTtJd4lG8iF9J.gif" width="230">
 ## Connect with me <img src="https://giphy.com/gifs/gis-sig-esri-gJuCXtTtJd4lG8iF9J" width="60">
 
 <p align="center">
