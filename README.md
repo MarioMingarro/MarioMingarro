@@ -9,11 +9,9 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Climate+Change;Protected+Areas;Butterflies">
 </p>
 
-<img src="https://giphy.com/embed/gJuCXtTtJd4lG8iF9J" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen>
+# Conect with me
+<img align='right' src="https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif" width="230">
 
-
-<img align='right' src="https://giphy.com/gifs/gis-sig-esri-gJuCXtTtJd4lG8iF9J.gif" width="230">
-## Connect with me <img src="https://giphy.com/gifs/gis-sig-esri-gJuCXtTtJd4lG8iF9J" width="60">
 
 <p align="center">
 	<a href="https://github.com/MarioMingarro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
