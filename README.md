@@ -1,7 +1,7 @@
 
 # Hi there, I'm Mario <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-<p align="center">
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=30&center=true&vCenter=true&lines=PhD+Student">
 </p>
 
@@ -20,12 +20,12 @@
   <a href="https://scholar.google.es/citations?user=YmdLztkAAAAJ&hl=esmncn"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
 
  - I am a PhD student at [Museo Nacional de Ciencias Naturales, Madrid](https://www.mncn.csic.es/en)
- - I write post on [my personal website](https://mmingarro.netlify.app/post/) 
- 
-img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
-	
-img src= "https://github-readme-stats.vercel.app/api/top-langs/?username={MarioMingarro}&theme=blue-green"
-	
+ - I write post on [my personal website](https://mmingarro.netlify.app/post/)
+ - 🌍
+
+<p align="center">
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
+</p>	
 <!--
 **MarioMingarro/MarioMingarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
