@@ -9,12 +9,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Climate+Change;Protected+Areas;Butterflies">
 </p>
 
-# Conect with me 
-
-<img align='right' src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"/>
-
-
-
 <p align="center">
 	<a href="https://github.com/MarioMingarro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.researchgate.net/profile/Mario-Mingarro"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
@@ -27,6 +21,11 @@
 <p align="center">
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </p>	
+
+<p align="right">
+# Conect with me 
+<img align='right' src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"/>
+	</p>	
 <!--
 **MarioMingarro/MarioMingarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
