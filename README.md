@@ -13,7 +13,7 @@
 <img src="https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif" width="40" height="40" />
 <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
 </p>
-
+![Alt Text]"https://media.giphy.com/media/gJuCXtTtJd4lG8iF9J/giphy.gif"
 
 <p align="center">
 	<a href="https://github.com/MarioMingarro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
