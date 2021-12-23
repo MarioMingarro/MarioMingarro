@@ -11,7 +11,7 @@
 
 # Conect with me 
 
-<img rc="https://media.giphy.com/media/TELUS-frog-frogs-telus-MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230" height="230 />
+<img align='right' src="https://media.giphy.com/media/TELUS-frog-frogs-telus-MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"/>
 
 
 
