@@ -2,6 +2,10 @@
 Hi there, I'm Mario <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=PhD+Student!;Climate+Change+Protected+Areas;Butterflies+Conservation">
+</p>
+
+<p align="center">
 	<a href="https://github.com/MarioMingarro"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="https://www.researchgate.net/profile/Mario-Mingarro"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
   <a href="https://scholar.google.es/citations?user=YmdLztkAAAAJ&hl=esmncn"><img src="https://img.shields.io/badge/-Google Scholar-555555?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
