@@ -14,7 +14,7 @@
 
 <p align="center">
 	<a href="https://github.com/MarioMingarro"><img src="https://img.icons8.com/material-outlined/48/000000/github.png"></a>
-  <a href="https://www.researchgate.net/profile/Mario-Mingarro"><img src="https://img.shields.io/badge/-ResearchGate-555555?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate"></a>
+  <a href="https://www.researchgate.net/profile/Mario-Mingarro"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" alt="ResearchGate"></a>
   <a href="https://scholar.google.es/citations?user=YmdLztkAAAAJ&hl=esmncn"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" alt="Google Scholar"></a>
  <a href="mailto:mario_mingarro@mncn.csic.es"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email"/></a>
 
