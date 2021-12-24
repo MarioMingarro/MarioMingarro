@@ -23,7 +23,7 @@
 <h2 align="right">mario_mingarro@mncn.csic.es</h2>
 
 <details>
-<summary>"Contact"</summary>
+<summary>Contact</summary>
 mario_mingarro@mncn.csic.es
 </details>
 
