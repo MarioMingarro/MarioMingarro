@@ -22,6 +22,11 @@
 
 <h2 align="right">mario_mingarro@mncn.csic.es</h2>
 
+<details>
+<summary>"Contact"</summary>
+mario_mingarro@mncn.csic.es
+</details>
+
 <p align="center">
 <img src="https://github.com/MarioMingarro/MarioMingarro/blob/main/imagen.jpg" width="2000" height = "200" ></a>
 
