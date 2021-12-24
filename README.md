@@ -27,6 +27,6 @@
 <img src="https://github.com/MarioMingarro/MarioMingarro/blob/main/imagen.jpg" width="500"></a>
 
 <p align="center">
-<img  src="https://media.giphy.com/media/jSnal2Sl36oYU/giphy.gif" width="480"></a>
+<img  src="https://media.giphy.com/media/jSnal2Sl36oYU/giphy.gif" width="1000" height = "480" ></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/mariomingarro/count.svg)
