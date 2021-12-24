@@ -4,8 +4,6 @@
 
 ## I am Mario Mingarro, a PhD student working at [MNCN-CSIC](https://www.mncn.csic.es) with a broad interest in macroecology, climate change, and land use dynamics, trying to understand these concepts through the modeling and simulation. Basically I perform spatial analysis and statistical analysis using the R language.
 
-<img src="https://github.com/MarioMingarro/MarioMingarro/blob/main/MM.gif" width="1000">
-
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=30&center=true&vCenter=true&lines=PhD+Student">
 </p>
@@ -20,10 +18,8 @@
   <a href="https://scholar.google.es/citations?user=YmdLztkAAAAJ&hl=esmncn"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" alt="Google Scholar"></a>
  <a href="mailto:mario_mingarro@mncn.csic.es"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email"/></a>
 
- - I am a PhD student at [Museo Nacional de Ciencias Naturales, Madrid](https://www.mncn.csic.es/en)
- - I write post on [my personal website](https://mmingarro.netlify.app/post/)
- - 🌍
-
+ # Please visit [my personal website](https://mmingarro.netlify.app/post/)
+ 
 <p align="center">
 <img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
 </p>	
