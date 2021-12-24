@@ -14,8 +14,9 @@
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=25center=true&vCenter=true&lines=Pleas+visit+my+personal+website"></a>
 
-# Visit [My personal website](https://mmingarro.netlify.app/post/)
-
+<p align="center">
+🌎🌍🌏 [My personal website](https://mmingarro.netlify.app/post/) 🌎🌍🌏
+</a>
 
 
 <p align="right">
@@ -28,18 +29,3 @@
 
 
 ![Visitor Count](https://profile-counter.glitch.me/mariomingarro/count.svg)
-```
-<!--
-**MarioMingarro/MarioMingarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
