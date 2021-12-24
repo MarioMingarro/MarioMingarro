@@ -14,13 +14,13 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=25center=true&vCenter=true&lines=Pleas+visit+my+personal+website"></a>
 
 
-## 🌎🌍🌏 [My personal website](https://mmingarro.netlify.app/post/) 🌎🌍🌏
+<h2 align="center">🌎🌍🌏 [My personal website](https://mmingarro.netlify.app/post/) 🌎🌍🌏</h2>
 
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Connect+with+me"></a>
 
-## ✉✉✉ mario_mingarro@mncn.csic.es ✉✉✉
+<h2 align="center"> ✉✉✉ mario_mingarro@mncn.csic.es ✉✉✉ </h2>
 
 <p align="center">
 <img src="https://github.com/MarioMingarro/MarioMingarro/blob/main/imagen.jpg" width="2000" height = "200" ></a>
