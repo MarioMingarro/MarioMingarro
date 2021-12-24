@@ -26,6 +26,9 @@
 <p align="center">
 <img src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"/></a>
 
+
+![Visitor Count](https://profile-counter.glitch.me/mariomingarro/count.svg)
+```
 <!--
 **MarioMingarro/MarioMingarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
