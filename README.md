@@ -2,7 +2,7 @@
 
 # Hi there, I'm Mario <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-## I am Mario Mingarro, a PhD student working at [MNCN-CSIC](https://www.mncn.csic.es) with a broad interest in macroecology, climate change, and land use dynamics, trying to understand these concepts through the modeling and simulation. Basically I perform spatial analysis and statistical analysis using the R language.
+## I am Mario Mingarro, a PhD student working at [MNCN-CSIC](https://www.mncn.csic.es) with a broad interest in macroecology, climate change, and land use dynamics, trying to understand these concepts through the modeling and simulation. Basically, I perform spatial analysis and statistical analysis using the R language.
 
 <p align="center">
   <a href="https://github.com/MarioMingarro"><img src="https://img.icons8.com/color-glass/48/000000/github.png"></a>
@@ -18,13 +18,15 @@
 ## 🌎🌍🌏 [My personal website](https://mmingarro.netlify.app/post/) 🌎🌍🌏
 
 
-<p align="right">
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Connect+with+me"></a>
 
 ## ✉✉✉ mario_mingarro@mncn.csic.es ✉✉✉
 
 <p align="center">
-<img src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"/></a>
+<img src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"></a>
 
+<p align="center">
+<img  src="https://giphy.com/embed/l3V0wm9OGergtheEg" width="480"></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/mariomingarro/count.svg)
