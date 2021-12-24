@@ -17,7 +17,7 @@
 
 ## 🌎🌍🌏 [My personal website](https://mmingarro.netlify.app/post/) 🌎🌍🌏
 
-
+<br><br>
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Connect+with+me"></a>
 
