@@ -14,7 +14,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=25center=true&vCenter=true&lines=Pleas+visit+my+personal+website"></a>
 
 
-<align="center">🌎🌍🌏 [My personal website](https://mmingarro.netlify.app/post/) 🌎🌍🌏</>
+<h2 align="center">🌎🌍🌏[My personal website](https://mmingarro.netlify.app/post/)🌎🌍🌏</h2>
 
 
 <p align="right">
@@ -22,10 +22,6 @@
 
 <h2 align="right">mario_mingarro@mncn.csic.es</h2>
 
-<details>
-<summary>Contact</summary>
-mario_mingarro@mncn.csic.es
-</details>
 
 <p align="center">
 <img src="https://github.com/MarioMingarro/MarioMingarro/blob/main/imagen.jpg" width="2000" height = "200" ></a>
