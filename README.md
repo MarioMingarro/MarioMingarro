@@ -4,13 +4,10 @@
 
 ## I am Mario Mingarro, a PhD student working at [MNCN-CSIC](https://www.mncn.csic.es) with a broad interest in macroecology, climate change, and land use dynamics, trying to understand these concepts through the modeling and simulation. Basically I perform spatial analysis and statistical analysis using the R language.
 
-<p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=30&center=true&vCenter=true&lines=PhD+Student">
-</p>
 
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Climate+Change;Protected+Areas;Butterflies">
-</p>
+
+
+
 
 <p align="center">
   <a href="https://github.com/MarioMingarro"><img src="https://img.icons8.com/color-glass/48/000000/github.png"></a>
@@ -18,10 +15,14 @@
   <a href="https://scholar.google.es/citations?user=YmdLztkAAAAJ&hl=esmncn"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" alt="Google Scholar"></a>
  <a href="mailto:mario_mingarro@mncn.csic.es"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email"/></a>
 
-  
-# Please visit [my personal website](https://mmingarro.netlify.app/post/)
+  <p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=30&center=true&vCenter=true&lines=Pleas+visit+my+personal+website">
+</p>
+## [My personal website](https://mmingarro.netlify.app/post/)
 
-# Conect with me: 
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Connect+with+me">
+</p>
 ## mario_mingarro@mncn.csic.es
 
 <p align="center">
