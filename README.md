@@ -1,8 +1,8 @@
 <img src="https://github.com/MarioMingarro/MarioMingarro/blob/main/MM.gif" width="1000">
 
-<h1 align="center">Hi there, I'm Mario</h1><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+<h1 align="center"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Hi there, I'm Mario<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
-## I am Mario Mingarro, a PhD student working at [MNCN-CSIC](https://www.mncn.csic.es) with a broad interest in macroecology, climate change, and land use dynamics, trying to understand these concepts through the modeling and simulation. Basically, I perform spatial analysis and statistical analysis using the R language.
+<h2 align="center">I am Mario Mingarro, a PhD student working at [MNCN-CSIC](https://www.mncn.csic.es) with a broad interest in macroecology, climate change, and land use dynamics, trying to understand these concepts through the modeling and simulation. Basically, I perform spatial analysis and statistical analysis using the R language</h2>
 <br><br>
 <p align="center">
   <a href="https://github.com/MarioMingarro"><img src="https://img.icons8.com/color-glass/48/000000/github.png"></a>
