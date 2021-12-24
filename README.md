@@ -18,11 +18,8 @@
   <a href="https://scholar.google.es/citations?user=YmdLztkAAAAJ&hl=esmncn"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" alt="Google Scholar"></a>
  <a href="mailto:mario_mingarro@mncn.csic.es"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email"/></a>
 
- # Please visit [my personal website](https://mmingarro.netlify.app/post/)
- 
-<p align="center">
-<img src="https://profilinator.rishav.dev/skills-assets/r.svg" alt="R" height="50" />  
-</p>	
+  
+# Please visit [my personal website](https://mmingarro.netlify.app/post/)
 
 # Conect with me: 
 ## mario_mingarro@mncn.csic.es
