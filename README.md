@@ -3,6 +3,7 @@
 
 ## I am Mario Mingarro, a PhD student working at [MNCN-CSIC](https://www.mncn.csic.es) with a broad interest in macroecology, climate change, and land use dynamics, trying to understand these concepts through the modeling and simulation. Basically I perform spatial analysis and statistical analysis using the R language.
 
+<img src="https://github.com/MarioMingarro/MarioMingarro/blob/main/MM.gif" width="230">
 
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=30&center=true&vCenter=true&lines=PhD+Student">
