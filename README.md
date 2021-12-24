@@ -24,7 +24,7 @@
 ## ✉✉✉ mario_mingarro@mncn.csic.es ✉✉✉
 
 <p align="center">
-<img src="https://github.com/MarioMingarro/MarioMingarro/blob/main/imagen.jpg" width="500"></a>
+<img src="https://github.com/MarioMingarro/MarioMingarro/blob/main/imagen.jpg" width="2000" height = "480" ></a>
 
 <p align="center">
 <img  src="https://media.giphy.com/media/jSnal2Sl36oYU/giphy.gif" width="1000" height = "480" ></a>
