@@ -17,10 +17,10 @@
 <h2 align="center">🌎🌍🌏 [My personal website](https://mmingarro.netlify.app/post/) 🌎🌍🌏</h2>
 
 
-<p align="left">
+<p align="right">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Connect+with+me"></a>
 
-<h2 align="center">mario_mingarro@mncn.csic.es</h2>
+<h2 align="right">mario_mingarro@mncn.csic.es</h2>
 
 <p align="center">
 <img src="https://github.com/MarioMingarro/MarioMingarro/blob/main/imagen.jpg" width="2000" height = "200" ></a>
