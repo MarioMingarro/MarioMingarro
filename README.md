@@ -27,7 +27,8 @@
 
 
 <p align="center">
-# [Conect with me](mario_mingarro@mncn.csic.es)
+# Conect with me: 
+## mario_mingarro@mncn.csic.es
 <img align='center' src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"/>
 </p>	
 <!--
