@@ -16,14 +16,14 @@
  <a href="mailto:mario_mingarro@mncn.csic.es"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email"/></a>
 
   <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=30&center=true&vCenter=true&lines=Pleas+visit+my+personal+website">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=500center=true&vCenter=true&lines=Pleas+visit+my+personal+website">
 </p>
-## [My personal website](https://mmingarro.netlify.app/post/)
+[My personal website](https://mmingarro.netlify.app/post/)
 
-<p align="center">
+<p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Connect+with+me">
 </p>
-## mario_mingarro@mncn.csic.es
+mario_mingarro@mncn.csic.es
 
 <p align="center">
 <img src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"/>
