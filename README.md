@@ -27,6 +27,6 @@
 <img src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"></a>
 
 <p align="center">
-<img  src="https://media.giphy.com/media/l3V0wm9OGergtheEg/giphy.gif" width="480"></a>
+<img  src="https://media.giphy.com/media/jSnal2Sl36oYU/giphy.gif" width="480"></a>
 
 ![Visitor Count](https://profile-counter.glitch.me/mariomingarro/count.svg)
