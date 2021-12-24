@@ -13,7 +13,9 @@
 <p align="left">
 <img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=25center=true&vCenter=true&lines=Pleas+visit+my+personal+website"></a>
 
-
+<div align="center">
+  🌎🌍🌏[My personal website](https://mmingarro.netlify.app/post/)🌎🌍🌏
+</div>
 <h2 align="center">##🌎🌍🌏[My personal website](https://mmingarro.netlify.app/post/)🌎🌍🌏</h2>
 
 
