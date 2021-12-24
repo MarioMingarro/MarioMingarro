@@ -9,23 +9,23 @@
   <a href="https://www.researchgate.net/profile/Mario-Mingarro"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" alt="ResearchGate"></a>
   <a href="https://scholar.google.es/citations?user=YmdLztkAAAAJ&hl=esmncn"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" alt="Google Scholar"></a>
  <a href="mailto:mario_mingarro@mncn.csic.es"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email"/></a>
-</p>
+
 
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=25center=true&vCenter=true&lines=Pleas+visit+my+personal+website">
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=25center=true&vCenter=true&lines=Pleas+visit+my+personal+website"></a>
+
 # Visit [My personal website](https://mmingarro.netlify.app/post/)
-</p>
+
 
 
 <p align="right">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Connect+with+me">
-# Contact me: "mario_mingarro@mncn.csic.es"
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=00ffd2&size=25&center=true&vCenter=true&lines=Connect+with+me"></a>
 
+## Contact me: mario_mingarro@mncn.csic.es
 
 <p align="center">
-<img src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"/>
-</p>	
+<img src="https://media.giphy.com/media/MXA8QkWdYxgE2dWZ1I/giphy.gif" width="230"/></a>
+
 <!--
 **MarioMingarro/MarioMingarro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
