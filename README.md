@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">Hi there, I'm Mario<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h1>
 
-<div align="right"> ## I am Mario Mingarro, a PhD student working at [MNCN-CSIC](https://www.mncn.csic.es) with a broad interest in macroecology, climate change, and land use dynamics, trying to understand these concepts through the modeling and simulation. Basically, I perform spatial analysis and statistical analysis using the R language</div>
+-> ## I am Mario Mingarro, a PhD student working at [MNCN-CSIC](https://www.mncn.csic.es) with a broad interest in macroecology, climate change, and land use dynamics, trying to understand these concepts through the modeling and simulation. Basically, I perform spatial analysis and statistical analysis using the R language <-
   
 <br><br>
 <p align="center">
