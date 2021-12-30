@@ -12,7 +12,7 @@
  <a href="mailto:mario_mingarro@mncn.csic.es"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email"/></a>
 <br><br>
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=25center=true&vCenter=true&lines=Pleas+visit+my+personal+website"></a>
+<img src="https://readme-typing-svg.herokuapp.com?font=monospace&color=cb6d51&size=25center=true&vCenter=true&lines=My+personal+website"></a>
 
 ## 🌎 🌍 🌏 [My personal website](https://mmingarro.netlify.app/post/) 🌎 🌍 🌏
 
